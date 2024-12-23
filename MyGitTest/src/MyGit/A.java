@@ -5,5 +5,6 @@ public class A {
 		System.out.println("A 생성");
 		System.out.println("main branch에서 수정");
 		System.out.println("devB branch에서 수정");
+		System.out.println("devC branch에서 수정");
 	}
 }
